@@ -1,0 +1,1 @@
+DELETE FROM `wisata semarang` WHERE Nama='Kota Lama';
