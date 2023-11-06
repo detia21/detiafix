@@ -1,0 +1,2 @@
+UPDATE `wisata semarang` 
+SET `Nama`='Kota Lama',`Alamat`='Jalan Letjen Suprapto, Tanjung Emas,Kecamatan Semarang',`harga tiket`='Rp 5000' WHERE id = 1;
